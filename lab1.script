@@ -1,0 +1,33 @@
+Script started on Sat 11 Mar 2017 08:54:13 PM CST
+[01;32mariel@ariel-X555LJ[01;34m ~/Desktop $[00m whoami;pwd
+ariel
+/home/ariel/Desktop
+[01;32mariel@ariel-X555LJ[01;34m ~/Desktop $[00m git config -l
+user.email=lucky020372@gmail.com
+user.name=ArielWu0203
+core.editor=vim
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/ArielWu0203/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+[01;32mariel@ariel-X555LJ[01;34m ~/Desktop $[00m git clone https://github.com/ArielWu0203/lab.git
+Cloning into 'lab'...
+Username for 'https://github.com': ArielWu0203
+Password for 'https://ArielWu0203@github.com': 
+remote: Repository not found.
+fatal: repository 'https://github.com/ArielWu0203/lab.git/' not found
+[01;32mariel@ariel-X555LJ[01;34m ~/Desktop $[00m git clone https://github.com/ArielWu0203/lab.git1.git [A[01;32mariel@ariel-X555LJ[01;34m ~/Desktop $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+Cloning into 'lab1'...
+remote: Counting objects: 5, done.[K
+remote: Compressing objects:  50% (1/2)   [Kremote: Compressing objects: 100% (2/2)   [Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 5 (delta 0), reused 3 (delta 0), pack-reused 0[K
+Unpacking objects:  20% (1/5)   Unpacking objects:  40% (2/5)   Unpacking objects:  60% (3/5)   Unpacking objects:  80% (4/5)   Unpacking objects: 100% (5/5)   Unpacking objects: 100% (5/5), done.
+Checking connectivity... done.
+[01;32mariel@ariel-X555LJ[01;34m ~/Desktop $[00m exit
+
+Script done on Sat 11 Mar 2017 08:56:21 PM CST
